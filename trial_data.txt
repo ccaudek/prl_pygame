@@ -1,0 +1,10 @@
+Epoch: 1, Trial: 1, Image1_Position: (200, 300), Image2_Position: (200, 300), Choice: l, Correct_Choice: True, Outcome: pics/euro.jpg, Reaction_Time (ms): 4889
+Epoch: 1, Trial: 2, Image1_Position: (200, 300), Image2_Position: (200, 300), Choice: l, Correct_Choice: True, Outcome: pics/euro.jpg, Reaction_Time (ms): 404
+Epoch: 1, Trial: 3, Image1_Position: (200, 300), Image2_Position: (200, 300), Choice: l, Correct_Choice: True, Outcome: pics/euro.jpg, Reaction_Time (ms): 426
+Epoch: 1, Trial: 4, Image1_Position: (200, 300), Image2_Position: (200, 300), Choice: l, Correct_Choice: True, Outcome: pics/euro.jpg, Reaction_Time (ms): 344
+Epoch: 1, Trial: 5, Image1_Position: (400, 300), Image2_Position: (400, 300), Choice: l, Correct_Choice: False, Outcome: pics/euro.jpg, Reaction_Time (ms): 376
+Epoch: 2, Trial: 1, Image1_Position: (400, 300), Image2_Position: (400, 300), Choice: l, Correct_Choice: True, Outcome: pics/noeuro1.jpg, Reaction_Time (ms): 310
+Epoch: 2, Trial: 2, Image1_Position: (400, 300), Image2_Position: (400, 300), Choice: l, Correct_Choice: True, Outcome: pics/noeuro1.jpg, Reaction_Time (ms): 338
+Epoch: 2, Trial: 3, Image1_Position: (400, 300), Image2_Position: (400, 300), Choice: l, Correct_Choice: True, Outcome: pics/noeuro1.jpg, Reaction_Time (ms): 351
+Epoch: 2, Trial: 4, Image1_Position: (400, 300), Image2_Position: (400, 300), Choice: l, Correct_Choice: True, Outcome: pics/euro.jpg, Reaction_Time (ms): 350
+Epoch: 2, Trial: 5, Image1_Position: (200, 300), Image2_Position: (200, 300), Choice: l, Correct_Choice: False, Outcome: pics/euro.jpg, Reaction_Time (ms): 533
